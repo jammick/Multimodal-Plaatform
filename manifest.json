@@ -69,6 +69,90 @@
     {
       "path": "frontend/tests/retry.test.mjs",
       "sha256": "67c5ce1867deafc692c88c85c8e9761a09d692c8457d232ad0a52c19074a071c"
+    },
+    {
+      "path": "frontend/src/core/videoMetaRules.ts",
+      "sha256": "6d784fa507e0cc98aaa8c7a651711b874d3dd6936cdb05f5990ccfcffb67543c"
+    },
+    {
+      "path": "frontend/src/core/videoFlowRules.ts",
+      "sha256": "56c698f0cf828ab87d85cf5992858ff190384a2892b5bcb9e8eeedcfdc7db7f3"
+    },
+    {
+      "path": "frontend/src/core/mediaBatchStatus.ts",
+      "sha256": "85958ffdf5f625c1e202413675c4e8a31d495ff87979f2ddd93517c95a1a0d06"
+    },
+    {
+      "path": "frontend/src/core/semanticEvents.ts",
+      "sha256": "893c000cac8e60e107c9739ddd465274d04f52982d58c60d602a813a7da53be6"
+    },
+    {
+      "path": "frontend/src/core/exif.ts",
+      "sha256": "16f59026a2c0821dbf28a93f5542539edd950468b63bcbb4b91d4dec69341a23"
+    },
+    {
+      "path": "frontend/src/core/knowledgeNavigation.ts",
+      "sha256": "6791616ee44f27790decd510d5b102576376c6e7df831edbfdc6a40bf05ffaec"
+    },
+    {
+      "path": "frontend/src/core/vectorLog.ts",
+      "sha256": "d76afc5aa72ec55eeb1add95041d653ff3c998d1e6d821418873ba7520ab0d5c"
+    },
+    {
+      "path": "frontend/src/core/logBlocks.ts",
+      "sha256": "8c0757b3e819eca7e8c06fee030fbb708c5358bfe8f0a5237f4159e9f9cd7dbc"
+    },
+    {
+      "path": "frontend/src/core/paramText.ts",
+      "sha256": "cc3148645a2f1d223cd781fc08797e53228e3644014035b0fa851039b455a887"
+    },
+    {
+      "path": "frontend/tests/videoMeta.test.mjs",
+      "sha256": "3b4d2ffd59a90417d60b3c6114af8fe76c244ab225844466155fa050c81cfd6a"
+    },
+    {
+      "path": "frontend/tests/videoFlowRules.test.mjs",
+      "sha256": "06a6508cfa52b0eb1d0d2d19f1aa83fd6807abd7803edbc580192d4974c9346e"
+    },
+    {
+      "path": "frontend/tests/mediaBatchStatus.test.mjs",
+      "sha256": "73a0633793e6c46c15223b4ce9c0a469ba74ae31e5cf325dd3f0f5b6a6ba3efe"
+    },
+    {
+      "path": "frontend/tests/semanticEvents.test.mjs",
+      "sha256": "efb0e9b277018d8a0fbe5c7a1f5096ea7e53f445c190896ba81ee5f476c8c82d"
+    },
+    {
+      "path": "frontend/tests/vectorLog.test.mjs",
+      "sha256": "8d5dde0066d7ec3006ff116ebf947db9b187fe682311a9533beb4673d938987b"
+    },
+    {
+      "path": "backend/cais-vector/src/main/java/com/cais/vector/model/EmbeddingClient.java",
+      "sha256": "7f5b5410e44ed6fb529d75eae30a57a37597657ad5afb021ba95ce8cd6929643"
+    },
+    {
+      "path": "backend/cais-vector/src/main/java/com/cais/vector/adapter/VectorStoreAdapter.java",
+      "sha256": "4ab026a04902e257838c750ad7d80b217852baa42f5d587f44d0c627146f4710"
+    },
+    {
+      "path": "reference/backend/cais-vision/src/main/java/com/cais/vision/service/RecognitionService.java",
+      "sha256": "658df2b63570caea5f7440b01bf3574b1d095adb42f84208505d595694c5b96e"
+    },
+    {
+      "path": "reference/backend/cais-vision/src/main/java/com/cais/vision/service/SemanticService.java",
+      "sha256": "b7b41dcce8898f6708d61f8a46f66ce644bfcdef1d62243736195917aca31a13"
+    },
+    {
+      "path": "reference/backend/cais-orchestrator/src/main/java/com/cais/orchestrator/service/MediaWorkflowService.java",
+      "sha256": "d2cf9a23be740ebf8300a6ecc3284e3aa872f4bec9472b1c61f2bec02ce83fe8"
+    },
+    {
+      "path": "reference/backend/cais-vector/src/main/java/com/cais/vector/service/KnowledgeIngestService.java",
+      "sha256": "c908c5b464fa2e13e6270f2020e754583d164b3370d12b05f5c44f9a13273828"
+    },
+    {
+      "path": "reference/backend/cais-vector/src/main/java/com/cais/vector/service/VectorStorageService.java",
+      "sha256": "80494e8c45c324f959747ab0aa960285b404b616249c530bfe8014eaa844134c"
     }
   ]
 }
