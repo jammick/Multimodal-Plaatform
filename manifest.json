@@ -1,0 +1,74 @@
+{
+  "sourceCommit": "67bc110c5e44f4fddb5602e6e38607805e76a52c",
+  "extractedAt": "2026-11-02",
+  "files": [
+    {
+      "path": "backend/cais-common/src/main/java/com/cais/common/idempotency/IdempotencyKeyBuilder.java",
+      "sha256": "1a73d440abc0e668e49aa73909ea99ec25dd6a26895e670b56ecfc9c2778a596"
+    },
+    {
+      "path": "backend/cais-common/src/main/java/com/cais/common/integration/IntegrationRetryExecutor.java",
+      "sha256": "e51a3e5f8c00aa2c01ead903b5d8862581a40e9745a4c7541fbc9f5dbc40c826"
+    },
+    {
+      "path": "backend/cais-common/src/main/java/com/cais/common/integration/IntegrationRetryPolicy.java",
+      "sha256": "88aaafe10533e82ad8e84254f2f7bb7e593709e8a54b09118a8b1518923e9427"
+    },
+    {
+      "path": "backend/cais-common/src/main/java/com/cais/common/integration/RetryableIntegrationException.java",
+      "sha256": "2ef94ffc149e31e8e79dca849bdd724d24a24e11375a412e3bcfeaac2ba6aa6d"
+    },
+    {
+      "path": "backend/cais-orchestrator/src/main/java/com/cais/orchestrator/support/LabelNames.java",
+      "sha256": "48523c55ba76166201127d3ea7dbd2c8eed39d5d3835a5373a193cf24cbb8163"
+    },
+    {
+      "path": "frontend/src/core/csv.ts",
+      "sha256": "e36938d7e5b972e27f8fcd5081ed4e3b622aa28fa146f60d4ed5642496616fec"
+    },
+    {
+      "path": "frontend/src/core/localTime.ts",
+      "sha256": "4d3aefa2e21cf3c74c0902e4cf3d5a605158cfcd906bad5783bbe0a38f9f938b"
+    },
+    {
+      "path": "frontend/src/core/sha256.ts",
+      "sha256": "b2c7c626e03252c2f036eec97dc3250f628d56ce30193b53c3d8bd5c5940cde9"
+    },
+    {
+      "path": "frontend/src/core/textDecode.ts",
+      "sha256": "11e1f107c72a7030774e876d53d8fc03358f1f8af00812deec670c506d53ef27"
+    },
+    {
+      "path": "frontend/src/core/summaryText.ts",
+      "sha256": "e9b75de4285af5ab186defd5b8b61d1fc3d3d47030f66704c74c3203cb552777"
+    },
+    {
+      "path": "frontend/src/core/objectLabels.ts",
+      "sha256": "ed660120861043f28aa07be778b1022c03bc06654608e55cce2bc1738956b508"
+    },
+    {
+      "path": "frontend/src/core/retry.ts",
+      "sha256": "9cb48117e822f79cea1c741a60b8566da603072cfd165341faffbc2de06871df"
+    },
+    {
+      "path": "frontend/tests/csv.test.mjs",
+      "sha256": "5a3de66a6bcb54333c466c6140c19b64101e82995f441a1dacb6e84670f818d0"
+    },
+    {
+      "path": "frontend/tests/localTime.test.mjs",
+      "sha256": "23271a34e445aa6cb38003e940521c94ed25a2e5e56566da5af228e9acdcd20a"
+    },
+    {
+      "path": "frontend/tests/textDecode.test.mjs",
+      "sha256": "497d7565b23d0b45614b772c572fae580f3adfc6c6525a4e472e156bafe9cd8a"
+    },
+    {
+      "path": "frontend/tests/summaryText.test.mjs",
+      "sha256": "8dd557f5a86957861fa481a98110f17572d9dda75419f542ea8e5efb3e70c3f9"
+    },
+    {
+      "path": "frontend/tests/retry.test.mjs",
+      "sha256": "67c5ce1867deafc692c88c85c8e9761a09d692c8457d232ad0a52c19074a071c"
+    }
+  ]
+}
